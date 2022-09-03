@@ -27,6 +27,7 @@ a {
   text-decoration: none;
   font-size: 22px;
   color: black;
+  padding: 1em;
 }
 
 button:hover, a:hover {
